@@ -1,0 +1,6 @@
+Sailingbot remote control.
+Made with Qt5, pyqt5, pyuic and Qt5 designer
+
+Project to control the raspberry pi embarked in the SailingBot.
+
+See SailingBot project for more information. https://github.com/cyrpaut/sailingbot
